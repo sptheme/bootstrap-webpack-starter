@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-webpack-starter",
+  "version": "1.0.0",
+  "description": "Load Bootstrap 4 styles and scripts in your Webpack bundle",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sptheme/bootstrap-webpack-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sptheme/bootstrap-webpack-starter/issues"
+  },
+  "homepage": "https://github.com/sptheme/bootstrap-webpack-starter#readme",
+  "devDependencies": {
+    "webpack": "^2.1.0-beta.25"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
