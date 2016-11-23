@@ -219,8 +219,6 @@ pip-log.txt
 ## Bootstrap webpack starter
 ############################
 
-.bootstraprc
 bower_components
 node_modules
 dist
-public
